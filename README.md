@@ -1,0 +1,1 @@
+# responsive-galerija-assignment
